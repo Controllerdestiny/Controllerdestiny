@@ -39,8 +39,6 @@
 | ![统计](https://github-readme-stats.vercel.app/api?username=Controllerdestiny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![语言占比](https://github-readme-stats.vercel.app/api/top-langs/?username=Controllerdestiny&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=SDL,Lagrange.Core,ItemPreserver,TrProtocol,Open-Terraria-API,VMPacker) |
 | :---: | :---: |
 
-> 💡 右侧语言占比卡已用 `exclude_repo` 排除 fork 仓库（不然 SDL 的 C++ 会把占比刷歪），只统计真实参与的项目。
-
 </div>
 
 ---
