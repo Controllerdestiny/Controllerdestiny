@@ -18,7 +18,7 @@
 ## 🧭 关于我
 
 - 🎮 主攻 **C#**，沉迷 **Terraria 服务器生态**（TShock / 协议 / 移动端）
-- 🏢 [UnrealMultiple](https://github.com/UnrealMultiple) 组织成员，维护 [TerraAngel](https://github.com/UnrealMultiple/TerraAngel)、[Pylon-Loader](https://github.com/UnrealMultiple/Pylon-Loader)、[TShockPlugin](https://github.com/UnrealMultiple/TShockPlugin)、[TerrariaSinicization](https://github.com/UnrealMultiple/TerrariaSinicization)、[VortexQ](https://github.com/UnrealMultiple/VortexQ)
+- 🏢 [UnrealMultiple](https://github.com/UnrealMultiple) 组织成员，维护 [TerraAngel](https://github.com/UnrealMultiple/TerraAngel)、[Pylon-Loader](https://github.com/UnrealMultiple/Pylon-Loader)、[TShockPlugin](https://github.com/UnrealMultiple/TShockPlugin)、[TerrariaSinicization](https://github.com/UnrealMultiple/TerrariaSinicization)
 - 🔧 也玩底层：ARM64 运行时插桩、HTTP 服务器从零造轮子
 - 🌱 兴趣广泛，fork 一堆，逐渐啃完
 
@@ -57,26 +57,23 @@
 
 ## 🛠 我的项目
 
-### 🏢 组织项目 · UnrealMultiple
+### 🏢 组织项目 · [UnrealMultiple](https://github.com/UnrealMultiple)
 
-<div align="center">
-
-| [![TerraAngel](https://github-readme-stats.vercel.app/api/pin/?username=UnrealMultiple&repo=TerraAngel&theme=tokyonight&hide_border=true)](https://github.com/UnrealMultiple/TerraAngel) | [![TShockPlugin](https://github-readme-stats.vercel.app/api/pin/?username=UnrealMultiple&repo=TShockPlugin&theme=tokyonight&hide_border=true)](https://github.com/UnrealMultiple/TShockPlugin) |
-| :---: | :---: |
-| [![Pylon-Loader](https://github-readme-stats.vercel.app/api/pin/?username=UnrealMultiple&repo=Pylon-Loader&theme=tokyonight&hide_border=true)](https://github.com/UnrealMultiple/Pylon-Loader) | [![TerrariaSinicization](https://github-readme-stats.vercel.app/api/pin/?username=UnrealMultiple&repo=TerrariaSinicization&theme=tokyonight&hide_border=true)](https://github.com/UnrealMultiple/TerrariaSinicization) |
-| [![VortexQ](https://github-readme-stats.vercel.app/api/pin/?username=UnrealMultiple&repo=VortexQ&theme=tokyonight&hide_border=true)](https://github.com/UnrealMultiple/VortexQ) | |
-
-</div>
+| 项目 | ⭐ | 说明 |
+| :--- | :-: | :--- |
+| [**TerraAngel**](https://github.com/UnrealMultiple/TerraAngel) | ![](https://img.shields.io/github/stars/UnrealMultiple/TerraAngel?style=flat-square&labelColor=1f2335&color=7aa2f7) | A Terraria utility client |
+| [**TShockPlugin**](https://github.com/UnrealMultiple/TShockPlugin) | ![](https://img.shields.io/github/stars/UnrealMultiple/TShockPlugin?style=flat-square&labelColor=1f2335&color=7aa2f7) | TShock 插件收集仓库 |
+| [**Pylon-Loader**](https://github.com/UnrealMultiple/Pylon-Loader) | ![](https://img.shields.io/github/stars/UnrealMultiple/Pylon-Loader?style=flat-square&labelColor=1f2335&color=7aa2f7) | 开源的 Terraria 移动版 Mod 加载器 |
+| [**TerrariaSinicization**](https://github.com/UnrealMultiple/TerrariaSinicization) | ![](https://img.shields.io/github/stars/UnrealMultiple/TerrariaSinicization?style=flat-square&labelColor=1f2335&color=7aa2f7) | Terraria Mobile 汉化项目 |
 
 ### 🧪 个人项目
 
-<div align="center">
-
-| [![arm64-guard](https://github-readme-stats.vercel.app/api/pin/?username=Controllerdestiny&repo=arm64-guard&theme=tokyonight&hide_border=true)](https://github.com/Controllerdestiny/arm64-guard) | [![MiniServer](https://github-readme-stats.vercel.app/api/pin/?username=Controllerdestiny&repo=MiniServer&theme=tokyonight&hide_border=true)](https://github.com/Controllerdestiny/MiniServer) |
-| :---: | :---: |
-| [![TShockAdapter](https://github-readme-stats.vercel.app/api/pin/?username=Controllerdestiny&repo=TShockAdapter&theme=tokyonight&hide_border=true)](https://github.com/Controllerdestiny/TShockAdapter) | [![TerrariaMap](https://github-readme-stats.vercel.app/api/pin/?username=Controllerdestiny&repo=TerrariaMap&theme=tokyonight&hide_border=true)](https://github.com/Controllerdestiny/TerrariaMap) |
-
-</div>
+| 项目 | ⭐ | 说明 |
+| :--- | :-: | :--- |
+| [**arm64-guard**](https://github.com/Controllerdestiny/arm64-guard) | ![](https://img.shields.io/github/stars/Controllerdestiny/arm64-guard?style=flat-square&labelColor=1f2335&color=7aa2f7) | ARM64 运行时插桩引擎 |
+| [**MiniServer**](https://github.com/Controllerdestiny/MiniServer) | ![](https://img.shields.io/github/stars/Controllerdestiny/MiniServer?style=flat-square&labelColor=1f2335&color=7aa2f7) | 简陋的 C# HTTP Server |
+| [**TShockAdapter**](https://github.com/Controllerdestiny/TShockAdapter) | ![](https://img.shields.io/github/stars/Controllerdestiny/TShockAdapter?style=flat-square&labelColor=1f2335&color=7aa2f7) | TShock 服务器适配器 |
+| [**TerrariaMap**](https://github.com/Controllerdestiny/TerrariaMap) | ![](https://img.shields.io/github/stars/Controllerdestiny/TerrariaMap?style=flat-square&labelColor=1f2335&color=7aa2f7) | 泰拉瑞亚地图工具 |
 
 ---
 
